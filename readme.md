@@ -1,4 +1,5 @@
 assignnment-1[https://colab.research.google.com/drive/1dQZ6XS0Vneua0Ox5wRLXaNu66_BeQUKm#scrollTo=IP2Zh6h0AmN2]
 assignment-2[https://colab.research.google.com/drive/1QHfuuEV2Y-dheOtS7SzvsOwZ-ZTwV8gf]
 assignment-3[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_Ass03.ipynb]
-assignnment-4[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_4.ipynb]
+assignment-4[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_4.ipynb]
+assignment-5[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_Ass05.ipynb]
