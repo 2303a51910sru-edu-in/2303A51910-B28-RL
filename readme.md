@@ -3,3 +3,4 @@ assignment-2[https://colab.research.google.com/drive/1QHfuuEV2Y-dheOtS7SzvsOwZ-Z
 assignment-3[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_Ass03.ipynb]
 assignment-4[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_4.ipynb]
 assignment-5[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_Ass05.ipynb]
+assignment-6[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_6.ipynb]
