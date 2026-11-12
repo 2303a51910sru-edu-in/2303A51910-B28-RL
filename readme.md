@@ -4,4 +4,5 @@ assignment-3[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main
 assignment-4[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_4.ipynb]
 assignment-5[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_Ass05.ipynb]
 assignment-6[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/RL_ass_6.ipynb]
-assignment-7[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/Ass_08.ipynb]
+assignment-7[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/Ass_07.ipynb]
+assignment-8[https://github.com/2303a51910sru-edu-in/2303A51910-B28-RL/blob/main/Ass_08.ipynb]
